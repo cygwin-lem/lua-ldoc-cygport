@@ -1,5 +1,5 @@
 category: Lua
-requires: bash lua54 lua54-markdown lua54-pl lua54
+requires: bash lua54 lua54-markdown lua54-pl
 sdesc: "A Lua Documentation Tool"
 ldesc: "LDoc is a LuaDoc-compatible documentation generator which can also
 process C extension source. Markdown may be optionally used to
